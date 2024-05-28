@@ -6,6 +6,8 @@ Nội dung các bài toán bao gồm:
 - Ảnh hưởng của các khoản khuyến khích đến Mức độ tìm hiểu bệnh lý của bản thân - được mô tả trong file Problem 2 - Ảnh hưởng của  các khoản khuyến khích đến Mức độ tìm hiểu bệnh lý của bản thân.ipynb
 - Thực nghiệm trên bộ dữ liệu thiếu - được mô tả trong file Problem 3 - Thực nghiệm trên bộ dữ liệu thiếu.ipynb
 
+Các hình ảnh mô tả các kết quả khi nghiên cứu và phân tích dữ liệu được lưu trong folder Assets ứng với mỗi bài toán trên.
+
 Các bài toán nghiên cứu lại các kết quả trước đó để so sánh sự nhất quán khi thực hiện Double Machine Learning so với các phương pháp hồi quy trong việc ước lượng ảnh hưởng nhân quả. Đồng thời thực hiện so sánh các sai số khi ước lượng để đánh giá ước lượng nào chính xác hơn.
 
 Các thư viện chính được sử dụng trong các mã nguồn bao gồm:
